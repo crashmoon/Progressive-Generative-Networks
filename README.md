@@ -11,7 +11,9 @@ A recent NVIDIA GPU
 
 # Progress
 1.Make a CSV file with make_images.py
+
 2.Modify the parameters in gan_lstm.py (Param.out_path)
+
 3.python gan_lstm.py (run the program)
 
 # Results
