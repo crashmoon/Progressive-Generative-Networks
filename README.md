@@ -4,6 +4,7 @@ Semantic Image Inpainting with Progressive Generative Networks
 # Prerequisites
 
 Python, NumPy, SciPy, Matplotlib
+
 A recent NVIDIA GPU
 
 **A latest master version of Pytorch**
