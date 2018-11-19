@@ -10,7 +10,9 @@ A recent NVIDIA GPU
 
 
 # Progress
-The code will be released after the paper is published.
+1.Make a CSV file with make_images.py
+2.Modify the parameters in gan_lstm.py (Param.out_path)
+3.python gan_lstm.py (run the program)
 
 # Results
 ![p0](imgs/pgn/test_image_0.jpg)
