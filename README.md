@@ -3,9 +3,7 @@ Haoran Zhang, Zhenzhen Hu, Changzhi Luo, Wangmeng Zuo, Meng Wang:
 
 Semantic Image Inpainting with Progressive Generative Networks.
 
-ACM Multimedia 2018: 1939-1947
-
-https://dl.acm.org/citation.cfm?doid=3240508.3240625
+ACM Multimedia 2018: 1939-1947 https://dl.acm.org/citation.cfm?doid=3240508.3240625
 
 @inproceedings{DBLP:conf/mm/ZhangHLZW18,
   author    = {Haoran Zhang and
